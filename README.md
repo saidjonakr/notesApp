@@ -1,4 +1,4 @@
-# NotesApp
+
 # Notes App
 
 A simple and user-friendly Notes App that allows users to create, manage, and organize their personal notes. This app provides features like adding, editing, deleting, and viewing notes in a clean and intuitive interface.
